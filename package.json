@@ -27,7 +27,7 @@
   "dependencies": {
     "concat-stream": "^2.0.0",
     "retry": "^0.12.0",
-    "ssh2": "git+https://github.com/chicao/ssh2.git#5044f15"
+    "ssh2": "git+https://github.com/chicao/ssh2.git#ad1bd29"
   },
   "devDependencies": {
     "chai": "^4.2.0",
